@@ -1,3 +1,1 @@
-# lesson_13_p2 Git!
-
-Content!
+# lesson_13_p2
